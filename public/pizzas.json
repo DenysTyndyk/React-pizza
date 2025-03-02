@@ -1,0 +1,104 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee8739e55f5bce89e33c950e9f9698.avif",
+      "title": "Pepperoni Fresh",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 12,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee873ed9c21ce2a2d71c0fee8462cb.avif",
+      "title": "Cheese",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 14,
+      "category": 3,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee873f263f7636bfe49edbbccd581d.avif",
+      "title": "Chicken Barbecue",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 15,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee874226d636e68c91e09a7f256458.avif",
+      "title": "Sweet and Sour Chicken",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 15,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee78b20e56928abcbfe71f409aa684.avif",
+      "title": "Cheeseburger Pizza",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 16,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eec3fe719b6754938723f960b71f07.avif",
+      "title": "Crazy Pepperoni",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 18,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ee873acf835df68769647f2eca2f2a.avif",
+      "title": "Pepperoni",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 20,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11ef16e27404d8a2bffb177c27cf05d2.avif",
+      "title": "Margherita",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 14,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eec406246d8163915996b91e043453.avif",
+      "title": "Four Seasons",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 13,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://media.dodostatic.com/image/r:584x584/11eec3ff8659d55e862827eeeeab838f.avif",
+      "title": "Vegetables and Mushrooms 🌱",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 12,
+      "category": 5,
+      "rating": 7
+    }
+  ]
+}
